@@ -1,6 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-
 
 Here is the comprehensive table of **Histopathology Foundation Models** sorted by year with the latest models at the top:
 
