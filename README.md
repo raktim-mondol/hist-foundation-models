@@ -14,8 +14,6 @@ Here is the filtered table showing only **Histopathology Image Feature Extractio
 | **UNI** | https://huggingface.co/MahmoodLab/UNI | 1024 | 303.0 | ViT-L/16 | 100M patches from 100K WSIs | DINOv2 | Mahmood Lab | General-purpose pathology foundation | **2024** |
 | **Virchow** | https://huggingface.co/paige-ai/Virchow | 2560 | 632.0 | ViT-H/14 | 1.5M WSIs | DINOv2 | Paige.ai | H\&E histopathology foundation model | **2024** |
 | **Virchow2** | https://huggingface.co/paige-ai/Virchow2 | 2560 | 632.0 | ViT-H/14 | 3.1M H\&E + 400K IHC WSIs | DINOv2 | Paige.ai | Multi-scale H\&E + IHC foundation model | **2024** |
-| **Virchow2G** | https://huggingface.co/paige-ai/Virchow2G | 6144 | 1900.0 | ViT-G/14 | 3.1M H\&E + 400K IHC WSIs | DINOv2 | Paige.ai | Large-scale pathology AI | **2024** |
-| **Virchow2G-Mini** | https://huggingface.co/paige-ai/Virchow2G-Mini | 768 | 21.6 | ViT-S/14 (distilled) | 3.1M H\&E + 400K IHC WSIs | DINOv2 + distillation | Paige.ai | Lightweight pathology model | **2024** |
 | **Path Foundation** | https://huggingface.co/google/path-foundation | 384 | 90.0 | ViT-S/16 | Large H\&E dataset | Masked Siamese Networks | Google | H\&E patch feature extraction | **2023** |
 | **PathoDuet** | https://github.com/openmedlab/PathoDuet | 768 | 86.0 | ViT-B/16 | H\&E and IHC datasets | Cross-scale positioning + cross-stain transfer | OpenMEDLab | H\&E and IHC stain analysis | **2023** |
 | **CTransPath** | https://github.com/Xiyue-Wang/TransPath | 768 | 28.0 | Hybrid CNN-Transformer | 15M patches from 30K WSIs | SRCL (Semantically-Relevant Contrastive Learning) | Academic | CNN-Transformer hybrid for pathology | **2022** |
